@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.top-sec{
+    background-color: #6943FF;
+    height: 40vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.display{
+   
+}
+
+
+h1{
+    padding: 30px;
+    font-weight: bold;
+}
+.inp-display{
+    display: block;
+    width: 12%;
+    height: 12%;
+    align-self: center;
+    background-color: transparent;
+    color: white;
+    border: 3px solid #B295FF ;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+#convert-btn{
+    padding: 4px;
+    margin-top: 10px;
+    align-self: center;
+    width: 18%;
+    border: 1px solid white ;
+    border-radius: 2px;
+   
+}
+input{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+.res-sec{
+    background-color: #273549;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top:30px ;
+
+
+    height: 60vh;
+    
+}
+
+.volum{
+    margin: 15px;
+    background-color: #243956  ;
+    padding: 5px;
+}
+
+.length{
+    margin: 15px;
+    background-color: #243956  ;
+    padding: 5px;
+
+}
+
+.mass{
+    margin: 15px;
+    background-color: #243956  ;
+    padding: 5px;
+
+}
+h3{
+    color: #CCC1FF;
+}
